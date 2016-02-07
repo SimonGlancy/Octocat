@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+a branch is effectively a parralel universe. It allows us to make changes to files without effecting the current timeline or "Master" branch
+
