@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+an upstream remote links the local repository to an external repository allowing you to push and pull information onto an external project. For which the upstream is effectively the gatekeeper
